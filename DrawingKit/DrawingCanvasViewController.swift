@@ -2,8 +2,7 @@
 //  DrawingCanvasViewController.swift
 //  DrawingKit
 //
-//  Created by Андрей Королев on 15.03.2022.
-//
+
 
 import SwiftUI
 import PencilKit

@@ -2,8 +2,6 @@
 //  Persistence.swift
 //  DrawingKit
 //
-//  Created by Андрей Королев on 14.03.2022.
-//
 
 import CoreData
 
